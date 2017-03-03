@@ -32,6 +32,3 @@ private:
 	void WatchMarks();
 };
 
-class SuperStud : private Student {
-	
-};
